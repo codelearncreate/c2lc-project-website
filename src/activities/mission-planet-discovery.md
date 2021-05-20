@@ -8,7 +8,7 @@ relatedActivities:
 description: |
   In this activity, learners try simple sequences to discover different planets.
 whatYouNeed: |-
-  * ### Tools
+  ### Tools
 
   Internet access and a device to open Weavly coding environment
 
