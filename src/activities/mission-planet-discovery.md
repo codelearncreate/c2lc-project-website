@@ -57,4 +57,4 @@ Mission 3: Planet H-12
 
 ## Level Up!
 
-For more of a challenge, introduce road blocks (meteors, alien spaceships, etc.) to encourage learners to explore different paths to reach their plant.
+For more of a challenge, introduce road blocks (meteors, alien spaceships, etc.) to encourage learners to explore different paths to reach their planet.
