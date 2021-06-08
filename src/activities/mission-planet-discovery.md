@@ -23,6 +23,11 @@ whatYouNeed: |-
   ### Support
 
   Depends on the learner, could be independent or require assistance
+books:
+  - title: The Fox and the Crow Retold
+    author: Mairi Mackinnon
+    coverImage: /assets/media/the-fox-and-the-crow.jpg
+    link: https://www.goodreads.com/book/show/2546792.The_Fox_and_the_Crow
 ---
 ## Description
 
