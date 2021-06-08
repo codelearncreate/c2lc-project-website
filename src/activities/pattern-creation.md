@@ -32,9 +32,8 @@ books:
 
 In this activity, learners use the Weavly scene as their virtual drawing canvas. Learners can use directional navigation in a coding environment where the action blocks and pen toggle feature enables learners to draw a design and create a patterned motif.  The process of creating various drawings and patterns on the scene encourages the use of directions and enables free-form creation. The interactive and visual component encourages learners to develop a sense of direction when using Weavly, identify cause and effect as well as inspire creativity in their coding creations.
 
-Some example of drawings/designs created into patterned motif:
-
-[Rose](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A2B3B&c=00b00bBbBAEAEACACbCbC0E0ECBCBABABAEAECCCC00000B0BCBCBA0A0bCbC0C0C00)[\
+Some example of drawings/designs created into patterned motif:[\
+Rose](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A2B3B&c=00b00bBbBAEAEACACbCbC0E0ECBCBABABAEAECCCC00000B0BCBCBA0A0bCbC0C0C00)[\
 Ninja star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3D2A233&c=agd00cCcCaAaAaaaaddddbbbb0b0bCeCeAcAcAaAaDBDBB0B000)\
 [Eight-sided star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3b3&c=f0ccCf0f0i0i0iciclflfiiiiililflflcoco0l0lClClCiCiFfFfCcCcC0C00000cCcCf0)
 
