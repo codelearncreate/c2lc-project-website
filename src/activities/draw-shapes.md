@@ -24,7 +24,7 @@ books:
   - title: Claymates
     author: Devorah Petty & Lauren Eldridge
     coverImage: /assets/media/claymates.jpg
-    link: https://books.google.ca/books/about/Claymates.html?id=Sg-IDAEACAAJ&redir_esc=y
+    link: https://canada.on.worldcat.org/oclc/939596169
 ---
 ## Description
 
