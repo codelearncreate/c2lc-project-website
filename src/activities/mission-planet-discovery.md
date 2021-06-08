@@ -27,7 +27,7 @@ books:
   - title: The Fox and the Crow Retold
     author: Mairi Mackinnon
     coverImage: /assets/media/the-fox-and-the-crow.jpg
-    link: https://www.goodreads.com/book/show/2546792.The_Fox_and_the_Crow
+    link: https://www.worldcat.org/title/fox-and-the-crow/oclc/1121476998
 ---
 ## Description
 
