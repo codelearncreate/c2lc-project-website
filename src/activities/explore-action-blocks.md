@@ -28,7 +28,7 @@ books:
   - title: Help Find Frank
     author: Anne Bollman
     coverImage: /assets/media/help-find-frank.jpg
-    link: https://www.goodreads.com/book/show/36368701-help-find-frank
+    link: https://canada.on.worldcat.org/oclc/1007068093
 ---
 ## Description
 
