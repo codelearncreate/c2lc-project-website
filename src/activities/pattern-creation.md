@@ -26,7 +26,7 @@ books:
   - title: Round the Garden
     author: Omri Glaser
     coverImage: /assets/media/round-the-garden.jpg
-    link: https://www.goodreads.com/book/show/8347605-round-the-garden
+    link: https://canada.on.worldcat.org/oclc/1063624796
 ---
 ## Description
 
