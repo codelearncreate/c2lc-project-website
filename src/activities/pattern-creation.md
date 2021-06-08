@@ -35,7 +35,8 @@ In this activity, learners use the Weavly scene as their virtual drawing canvas.
 Some example of drawings/designs created into patterned motif:
 
 [Rose](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A2B3B&c=00b00bBbBAEAEACACbCbC0E0ECBCBABABAEAECCCC00000B0BCBCBA0A0bCbC0C0C00)[\
-Ninja star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3D2A233&c=agd00cCcCaAaAaaaaddddbbbb0b0bCeCeAcAcAaAaDBDBB0B000)[Eight-sided star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3b3&c=f0ccCf0f0i0i0iciclflfiiiiililflflcoco0l0lClClCiCiFfFfCcCcC0C00000cCcCf0)
+Ninja star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3D2A233&c=agd00cCcCaAaAaaaaddddbbbb0b0bCeCeAcAcAaAaDBDBB0B000)\
+[Eight-sided star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3b3&c=f0ccCf0f0i0i0iciclflfiiiiililflflcoco0l0lClClCiCiFfFfCcCcC0C00000cCcCf0)
 
 ## Steps
 
