@@ -53,7 +53,8 @@ This introductory activity allows learners to explore different features of Cube
 
 ## Tips
 
-* Ensure operational batteries are available and Cubetto is operational prior to activity.
+* Ensure operational batteries are available 
+* Ensure Cubetto is operational prior to activity.
 * Set an agenda with the duration / time-frame of this activity to establish expectations and keep advanced learners engaged within a group setting.
 
 ## Skill Development
