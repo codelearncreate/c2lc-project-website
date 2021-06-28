@@ -1,0 +1,49 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "page page--share" %}
+
+{% block content %}
+<div class="[ wrapper ] [ flow ]">
+	{{ content | safe }}
+	<form name="share-resources" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+		<div class="hidden">
+			<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+		</div>
+		<div class="[ half ]">
+			<label for="fname">Contributor’s first name*</label>
+			<input type="text" id="fname" name="fname" required />
+		</div>
+		<div class="[ half ]">
+			<label for="lname">Contributor’s last name*</label>
+			<input type="text" id="lname" name="lname" required />
+		</div>
+		<div class="[ half ]">
+			<label for="email">Contributor’s email address*</label>
+			<input type="email" id="email" name="email" required />
+		</div>
+		<div class="[ half ]">
+			<label for="website">Organization website*</label>
+			<input type="text" id="website" name="website" required />
+		</div>
+		<fieldset>
+			<legend>What type of resource are you sharing?</legend>
+			{% for item in ['Lesson plans', 'Unplugged coding activities', 'Robot-based coding activities', 'Educational coding materials', 'Other'] %}
+			<div>
+				<input type="checkbox" id="{{ item | slug }}" name="resource-type" value="{{ item }}" />
+				<label for="{{ item | slug }}">{{ item }}</label>
+			</div>
+			{% endfor %}
+		</fieldset>
+		<div>
+			<label for="description">What is this resource about?</label>
+			<textarea id="description" name="description" aria-describedby="description-hint"></textarea>
+			<div class="[ hint ]" id="description-hint">Please provide a brief description of the resource.</div>
+		</div>
+		<div>
+			<label for="supportive-material">Upload supportive material</label>
+			<input type="file" id="supportive-material" name="supportive-material" multiple />
+		</div>
+		<button class="[ button ]" type="submit">Share Resource</button>
+	</form>
+</div>
+{% endblock %}

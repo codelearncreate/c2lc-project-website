@@ -27,7 +27,7 @@
                   {% image card.image, "", 666, 480 %}
                 </figure>
                 <div class="[ card__content ] [ flow ]">
-                    <h3><a href="{{ card.link }}">{{ card.title }}</a></h3>
+                    <h3><a class="[ card__link ]" href="{{ card.link }}">{{ card.title }}</a></h3>
                     {{ card.content | markdown | safe }}
                 </div>
             </div>
@@ -45,7 +45,7 @@
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ robotActivitiesSection.callToActionLink }}">{{ robotActivitiesSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
-            <img src="{{ robotActivitiesSection.image }}?nf_resize=fit&w=640&h=360" alt="{{ robotActivitiesSection.imageAlt }}" width="640" height="360" /> 
+            <img src="{{ robotActivitiesSection.image }}?nf_resize=fit&w=640&h=360" alt="{{ robotActivitiesSection.imageAlt }}" width="640" height="360" />
         </div>
     </div>
   </div>

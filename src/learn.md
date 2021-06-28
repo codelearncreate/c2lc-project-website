@@ -11,7 +11,7 @@ resourcesSection:
   callToActionLink: /learn/resources/
 shareSection:
   title: Share Learning Resources
-  titleLink: mailto:sshahi@ocadu.ca?subject=Share%20Learning%20Resources
+  titleLink: /learn/share/
   content: Support other learners by sharing your ideas, handouts and activities.
 layout: layouts/learn
 permalink: /learn/

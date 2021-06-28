@@ -3,7 +3,6 @@
 // 1. Configuration and helpers
 @import
     'abstracts/functions',
-    'abstracts/tokens',
     'abstracts/variables',
     'abstracts/mixins';
 
@@ -23,7 +22,8 @@
     'layout/header',
     'layout/article',
     'layout/sidebar',
-    'layout/footer';
+    'layout/footer',
+    'layout/form';
 
 // 5. Components
 @import
@@ -36,6 +36,7 @@
     'components/filters',
     'components/grid-image',
     'components/grid-video',
+    'components/input',
     'components/label',
     'components/overlay',
     'components/navigation',
@@ -51,7 +52,8 @@
     'pages/activities',
     'pages/guides',
     'pages/projects',
-    'pages/resources';
+    'pages/resources',
+    'pages/share';
 
 // 7. Themes
 @import

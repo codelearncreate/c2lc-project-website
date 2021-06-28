@@ -32,5 +32,25 @@ a:not([class]) {
 
     &:visited {
         color: currentColor;
+
+        &:active {
+            color: var(--color-white);
+        }
+    }
+}
+
+.bg--red-75 a:not([class]) {
+    &:hover {
+        color: var(--color-black-25);
+    }
+
+    &:focus {
+        box-shadow: 0 0 0 var(--space-xxs) var(--color-red-35);
+    }
+
+    &:active,
+    &:hover:active {
+        background-color: var(--color-red-35);
+        color: var(--color-white);
     }
 }

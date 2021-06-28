@@ -1,6 +1,8 @@
 // -----------------------------------------------------------------------------
 // This file contains all application-wide Sass functions.
 // -----------------------------------------------------------------------------
+@use "sass:math";
+
 $browser-context: 16px;
 
 @function rem($pixels, $context: $browser-context) {
@@ -12,5 +14,5 @@ $browser-context: 16px;
         $context: $context * 1px;
     }
 
-    @return $pixels / $context * 1rem;
+    @return math.div($pixels, $context) * 1rem;
 }

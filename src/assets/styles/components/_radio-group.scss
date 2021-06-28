@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------------
 
 .radio-group > * + * {
-    margin-left: 0.5rem;
+    margin-inline-start: 0.5rem;
 }
 
 .radio-group .button[aria-checked="true"] {
