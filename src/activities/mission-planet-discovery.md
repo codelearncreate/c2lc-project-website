@@ -40,10 +40,10 @@ Mission 3: Planet H-12
 
 ## Steps
 
-* Pick the space robot under the World Selector.
+* Select the robot under the World Selector.
 * Select the “Refresh” button to set the Rocket station at A-1.
 * Add a combination of Forward/Backwards and Turn Left/Right blocks to build your program to reach the listed coordinates for each mission.
-* Select the “Play” button to see whether each mission is completed.
+* Select the “Play” button to check if you have completed your mission.
 * Select the “Refresh” button to take the rocket back to Rocket station A-1 before starting a new mission.
 
 ## Tips
